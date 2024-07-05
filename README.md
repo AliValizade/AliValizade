@@ -7,7 +7,7 @@
    
  
 </p>
-<p align="center">
+<p align="center" font-size="18">
     I would be happy if you check my repositories and give me a star if you like it.
 </p>
 <br/>
