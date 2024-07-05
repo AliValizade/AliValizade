@@ -7,9 +7,10 @@
    
  
 </p>
-<p align="center" style="font-size: 16px; font-family: Tahoma, sans-serif; font-weight: bold;">
+<h3><p align="center" style="font-size: 16px; font-family: Tahoma, sans-serif; font-weight: bold;">
     I would be happy if you check my repositories and give me a star if you like it.
-</p>
+</p></h3>
+   
 <br/>
 
 ## 🔨 Languages and Tools
