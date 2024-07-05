@@ -7,9 +7,9 @@
    
  
 </p>
-<p align="center" font-size="18">
-    I would be happy if you check my repositories and give me a star if you like it.
-</p>
+<p style="text-align: center; font-size: 16px; font-family: Tahoma, sans-serif; font-weight: bold;">
+        I would be happy if you check my repositories and give me a star if you like it.
+    </p>
 <br/>
 
 ## 🔨 Languages and Tools
