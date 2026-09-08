@@ -67,7 +67,7 @@ An AI/NLP research project focused on sentiment analysis in social networks.
 
 ## 🎓 Teaching
 
-# University Instructor — Teaching Python, Programming, Linux & Operating Systems
+### University Instructor — Teaching Python, Programming, Linux & Operating Systems
 
 Python Instructor with experience in teaching Python programming, Linux, system programming and software development.
 
