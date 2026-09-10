@@ -1,104 +1,153 @@
-# 👋 Hi, I'm Ali Valizadeh
+# Hi, I'm Ali Valizadeh 👋
 
-### Python Developer · Django Developer · AI & Automation
+### Python Developer | AI & Automation Engineer | Educator
 
-I build practical software solutions with Python — from web applications and business automation to data extraction, AI and desktop applications.
+I build practical software systems with **Python**, focusing on backend development, AI, automation, and data-driven applications.
+
+I also teach programming and software development, helping learners move from fundamentals to building real-world projects.
 
 ---
 
 ## 🚀 What I Build
 
-* 🐍 **Python Applications & Automation**
-* 🌐 **Django Web Applications & Backend Systems**
-* 🕷️ **Web Scraping & Data Extraction**
-* 🤖 **AI / Machine Learning / NLP**
-* 🖥️ **Desktop Applications**
-* ⚙️ **Business Process Automation**
+* 🐍 **Python Applications** — practical tools, automation, and software systems
+* 🌐 **Backend & Web Applications** — Django, REST APIs, databases, and business systems
+* 🤖 **AI & Machine Learning** — ML, NLP, sentiment analysis, and intelligent applications
+* ⚙️ **Automation & Data Extraction** — web scraping, workflow automation, and data processing
+* 🖥️ **Desktop Applications** — Python-based applications with modern graphical interfaces
+* 🎓 **Educational Software & Content** — programming courses, workshops, and hands-on projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming
 
-Python · C++ · C#
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
 
-**Backend & Web**
+### Backend & Web
 
-Django · REST APIs · SQL
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat\&logo=django\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-**AI & Data**
+### AI / Machine Learning
 
-Machine Learning · Deep Learning · NLP · Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 
-**Automation**
+### Data & Databases
 
-Web Scraping · Selenium · Playwright · Telegram Bots
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 
-**Desktop**
+### Tools & Platforms
 
-PySide6 · Qt
-
-**Tools & Platforms**
-
-Linux · Git · GitHub · Docker
-
----
-
-## 🔥 Featured Projects
-
-### 🕷️ Multi-Source Web Scraper
-
-A scalable scraping system designed to collect structured business data from multiple map and local-service platforms.
-
-### 🌐 Business & Education Portal
-
-A Django-based platform combining course management, CRM, enrollment and business automation.
-
-### 🍅 Pomodoro Desktop
-
-A modern desktop productivity application built with Python and PySide6.
-
-### 🤖 Sentiment Analysis
-
-An AI/NLP research project focused on sentiment analysis in social networks.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ---
 
-## 🎓 Teaching
+## ⭐ Featured Projects
 
-### University Instructor — Teaching Python, Programming, Linux & Operating Systems
+Here are some projects that represent different areas of my technical experience.
 
-Python Instructor with experience in teaching Python programming, Linux, system programming and software development.
+### 🤖 AI & Machine Learning
 
-I enjoy turning complex programming concepts into practical, project-based learning experiences.
+**[RL_Projects](https://github.com/AliValizade/RL_Projects)**
+Reinforcement Learning projects and experiments.
+
+**[Neural-Networks](https://github.com/AliValizade/Neural-Networks)**
+Implementations and experiments with neural networks and machine learning concepts.
+
+**[Sport-Ball-Detection](https://github.com/AliValizade/Sport-Ball-Detection)**
+Computer vision project focused on detecting sports balls using image-processing and machine-learning techniques.
+
+### 🌐 Django & Backend
+
+**[SmartProducts](https://github.com/AliValizade/SmartProducts)**
+A Django-based web application demonstrating practical backend and web development.
+
+**[Django-Ads-website](https://github.com/AliValizade/Django-Ads-website)**
+A Django web application project focused on online advertising functionality.
+
+### 🔐 Algorithms & Computer Science
+
+**[Cryptography](https://github.com/AliValizade/Cryptography)**
+Programming experiments and implementations related to cryptography and information security.
+
+**[Genetic_Algorithm](https://github.com/AliValizade/Genetic_Algorithm)**
+A Python implementation of a Genetic Algorithm for solving the Eight Queens problem.
 
 ---
 
-## 🔬 Research Interests
+## 🎓 Teaching & Education
 
-* Natural Language Processing
-* Sentiment Analysis
-* Machine Learning
+Alongside software development, I work as a **programming instructor**.
+
+My teaching focuses on practical programming and helping students understand not only how to write code, but also how to think like a developer.
+
+### Areas I Teach
+
+* Python Programming
+* Programming Fundamentals
+* Object-Oriented Programming
+* Linux & System Programming
 * Artificial Intelligence
-* Intelligent Software Systems
+* Machine Learning
+* Practical Software Development
+
+I believe the best way to learn programming is to **build real things**.
 
 ---
 
-## 📌 Currently Working On
+## 🔭 Currently Building
 
-* Building scalable Python automation tools
-* Developing Django-based business applications
-* Web scraping and data engineering
-* AI and NLP projects
-* Improving software architecture and engineering practices
+I am currently focusing on practical projects in:
+
+* 🐍 Advanced Python development
+* 🌐 Django & backend systems
+* 🕷️ Web scraping and data extraction
+* ⚙️ Business process automation
+* 🤖 AI & NLP applications
+* 🖥️ Python desktop applications
+* 🎓 Programming education and technical content
+
+---
+
+## 📈 My Development Philosophy
+
+> **Build systems, not just scripts.**
+
+I am interested in developing software that solves real problems, reduces repetitive work, and turns manual processes into reliable and maintainable systems.
+
+My long-term focus is at the intersection of:
+
+**Software Development × AI × Automation × Education**
 
 ---
 
 ## 📫 Connect With Me
 
-Feel free to explore my repositories and connect with me for collaboration, software development and educational projects.
+* 💼 **LinkedIn:** [Ali Valizadeh](https://www.linkedin.com/in/alivalizade/)
+* 🐙 **GitHub:** [AliValizadeh](https://github.com/AliValizade)
+* ✈️ **Telegram:** [@titechco](https://t.me/titechco)
 
 ---
 
-> **Build practical software. Learn continuously. Share what you build.**
+## ⚡ Fun Fact
+
+I enjoy turning ideas into working software — and then turning what I learn into something others can learn from.
+
+---
+
+⭐ If you find one of my projects useful, feel free to explore the repository and leave a star!
