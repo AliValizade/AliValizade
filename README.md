@@ -152,9 +152,9 @@ My long-term focus is at the intersection of:
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** Ali Valizadeh
-* 🐙 **GitHub:** Ali Valizadeh
-* ✈️ **Telegram:** Ali Valizadeh — @titechco
+* 💼 **LinkedIn:** [Ali Valizadeh](https://www.linkedin.com/in/alivalizade/)
+* 🐙 **GitHub:** [AliValizade](https://github.com/AliValizade)
+* ✈️ **Telegram:** Ali Valizadeh — [@titechco](https://t.me/titechco)
 
 ---
 
