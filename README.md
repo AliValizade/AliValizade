@@ -59,34 +59,41 @@ I also teach programming and software development, helping learners move from fu
 
 ## ⭐ Featured Projects
 
-Here are some projects that represent different areas of my technical experience.
+These projects represent key areas of my practical experience across **AI, backend development, automation, and desktop software**.
 
 ### 🤖 AI & Machine Learning
 
-**[RL_Projects](https://github.com/AliValizade/RL_Projects)**
+**[RL_Projects](../RL_Projects)**
 Reinforcement Learning projects and experiments.
 
-**[Neural-Networks](https://github.com/AliValizade/Neural-Networks)**
+**[Neural-Networks](../Neural-Networks)**
 Implementations and experiments with neural networks and machine learning concepts.
 
-**[Sport-Ball-Detection](https://github.com/AliValizade/Sport-Ball-Detection)**
+**[Sport-Ball-Detection](../Sport-Ball-Detection)**
 Computer vision project focused on detecting sports balls using image-processing and machine-learning techniques.
 
 ### 🌐 Django & Backend
 
-**[SmartProducts](https://github.com/AliValizade/SmartProducts)**
+**[SmartProducts](../SmartProducts)**
 A Django-based web application demonstrating practical backend and web development.
 
-**[Django-Ads-website](https://github.com/AliValizade/Django-Ads-website)**
+**[Django-Ads-website](../Django-Ads-website)**
 A Django web application project focused on online advertising functionality.
 
-### 🔐 Algorithms & Computer Science
+### ⚙️ Automation & Python
 
-**[Cryptography](https://github.com/AliValizade/Cryptography)**
+**[Telegram_Bots](../Telegram_Bots)**
+A collection of Python-based Telegram bot projects demonstrating automation and API integration.
+
+### 🖥️ Desktop Applications
+
+**[Pomodoro](../Pomodoro)**
+A modern desktop Pomodoro timer built with Python and PySide6, featuring SQLite persistence, multilingual support, themes, and session history.
+
+### 🔐 Algorithms & Security
+
+**[Cryptography](../Cryptography)**
 Programming experiments and implementations related to cryptography and information security.
-
-**[Genetic_Algorithm](https://github.com/AliValizade/Genetic_Algorithm)**
-A Python implementation of a Genetic Algorithm for solving the Eight Queens problem.
 
 ---
 
@@ -116,11 +123,18 @@ I am currently focusing on practical projects in:
 
 * 🐍 Advanced Python development
 * 🌐 Django & backend systems
-* 🕷️ Web scraping and data extraction
+* 🕷️ Multi-source web scraping and data extraction
 * ⚙️ Business process automation
 * 🤖 AI & NLP applications
 * 🖥️ Python desktop applications
 * 🎓 Programming education and technical content
+
+### Current Projects
+
+* 🕷️ **Multi-Source Web Scraper** — a modular scraping system designed to support multiple data sources
+* 🎓 **Business & Education Portal** — a Django-based platform for course management, lead management, and business workflows
+* 🧠 **Sentiment Analysis Research** — NLP research as part of my M.Sc. work
+* 🖥️ **Pomodoro** — actively improving a production-oriented desktop productivity application
 
 ---
 
@@ -138,9 +152,9 @@ My long-term focus is at the intersection of:
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Ali Valizadeh](https://www.linkedin.com/in/alivalizade/)
-* 🐙 **GitHub:** [Ali Valizadeh](https://github.com/AliValizade)
-* ✈️ **Telegram:** Ali Valizadeh [@titechco](https://t.me/titechco)
+* 💼 **LinkedIn:** Ali Valizadeh
+* 🐙 **GitHub:** Ali Valizadeh
+* ✈️ **Telegram:** Ali Valizadeh — @titechco
 
 ---
 
