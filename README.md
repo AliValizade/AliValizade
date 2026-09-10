@@ -1,6 +1,6 @@
 # Hi, I'm Ali Valizadeh 👋
 
-### Python Developer | AI & Automation Engineer | Educator
+### Python Developer | AI & Automation Engineer | Django | University Instructor
 
 I build practical software systems with **Python**, focusing on backend development, AI, automation, and data-driven applications.
 
